@@ -1,0 +1,1 @@
+# osx-copy-path-service
